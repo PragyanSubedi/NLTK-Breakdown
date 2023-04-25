@@ -5,3 +5,4 @@ This repository consists of learning materials of the Natural Language Toolkit i
 - [x] 1. Introduction to NLTK
 - [x] 2. Corpora and Lexical Resources
 - [x] 3. POS Tagging
+- [ ] 4. Text Classification
